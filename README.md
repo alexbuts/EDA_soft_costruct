@@ -10,4 +10,4 @@ Follow instructions below:
  - Run the **EDA.ipynb** on Jupyter Notebook.
 Also you can open EDA.ipynb in github, but styling will not working on web version
 **Warning: there are two places in code, which executes near hour. It was done for investigating general distributions.
-In real working, it is desirable to avoid such none-optimized queries. But I wanted to make full analysis.
+In real working, it is desirable to avoid such none-optimized queries. But I wanted to make full analysis.**
